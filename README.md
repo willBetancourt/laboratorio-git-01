@@ -1,1 +1,2 @@
 # laboratorio-git-01
+Hola a todos, mi nombre es Willy Stiven Sáenz Betancourt. Soy estudiante universitario en la Universidad de los Llanos con un gran interés y enfoque en el área de la telemática. Me apasiona el diseño de redes, la conectividad y cómo la tecnología puede optimizar la comunicación de datos. Busco constantemente oportunidades para aplicar mis conocimientos académicos en proyectos reales y seguir desarrollándome en el sector tecnológico.
